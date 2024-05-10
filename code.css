@@ -3843,7 +3843,7 @@ body {
   left: 0 !important;
   background: var(--settingsmodalbackground) !important;
   border-radius: 5px !important;
-  width: 1500px !important;
+  /*width: 1500px !important;*/
   height: 800px !important;
   margin: auto !important;
   padding: 0 !important;
