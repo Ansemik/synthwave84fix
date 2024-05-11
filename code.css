@@ -3,13 +3,13 @@
 @import url("https://celestialreaver.github.io/BetterDiscord/themes/base/font.css");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans");
 @import url("https://fonts.googleapis.com/css2?family=Monoton");
-/*@import url("https://stickfab.github.io/pc-fluenticons/FluentIcons.css");*/
 
 :root {
   --mainColor: #03edf9;
-  --backgroundColor01: #2a2139;
-  --backgroundColor02: #241b2f;
-  --backgroundCode: #262335;
+  --backgroundColor01: linear-gradient(270deg, #b901b0, #351b5a);
+  --backgroundColor02: linear-gradient(0deg, #b901b0, #351b5a);
+  --backgroundCode: linear-gradient(0deg, #b901b0, #351b5a);
+  --background-tertiary:linear-gradient(90deg, #b901b0, #351b5a);
   --backgroundName: rgba(0, 0, 0, 0.2);
   --gradientColor01: #36f9f6;
   --gradientColor02: #f92aad;
@@ -40,6 +40,10 @@
   --interactive-active: #5ef7ff;
   --bg-overlay-selected:#2a2139;
 }
+.scroller_e412fe{
+  background:var(--backgroundCode);
+}
+
 .title__84e16, .toolbar__62fb5{
   color:var(--mainColor);
 }
@@ -3141,7 +3145,7 @@ body {
   box-sizing: border-box;
   width: 100%;
   color: var(--channels-default);
-  background-color: var(--backgroundColor01) !important;
+  background: linear-gradient(270deg, #b601ada8, #24123d9d) !important;
 }
 
 .interactive-1vLZ_I {
@@ -3229,7 +3233,7 @@ body {
       left bottom,
       from(rgba(54, 57, 63, 0)),
       to(var(--background-primary)));
-  background: var(--backgroundColor02) !important;
+  background: #b901b0 !important;
 }
 
 .guildSubscriptionSlot_b76fc6 {
@@ -3354,7 +3358,7 @@ body {
   padding-left: 16px;
   padding-right: 16px;
   margin-top: -8px;
-  background: var(--backgroundColor02) !important;
+  background: #b901b0 !important;
 }
 
 .bar_edc096 {
@@ -3902,7 +3906,7 @@ body {
 #app-mount .videoWrapper__3ffda,
 #app-mount .wrapper__216eb,
 #app-mount .wrapper__6bf2d {
-  background: var(--backgroundColor02) !important;
+  background: var(--backgroundColor02)!important;
 }
 
 #app-mount .container-S9SaVf {
