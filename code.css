@@ -4838,7 +4838,7 @@ svg aria-hidden {
 
 #app-mount .members__573eb,
 #app-mount .members__573eb>div {
-  background-color: var(--backgroundColor02) !important;
+  background: linear-gradient(90deg, #b901b0, #351b5a)!important;
 }
 
 #app-mount .clickable__03a29.container_a48b21 .activity_bafb94 {
