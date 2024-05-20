@@ -32,7 +32,7 @@
   --rs-phone-color: var(--rs-online-color);
   --customFont: "Whitney";
   --rs-version: "1.0.2";
-  --logo-gif: url("https://i.imgur.com/z0WUs3L.gifv");
+  --logo-gif: url(https://i.imgur.com/z0WUs3L.gifv);
   --chat-bubble: 0;
   /*--customFont: "Open Sans"*/
   --customFont: "Whitney";
@@ -42,7 +42,7 @@
   --bg-overlay-selected:#2a2139;
 }
 .chatContent_f087cb{
-  background:url("https://imgur.com/a/background-ug3FAkv");
+  background:url(https://imgur.com/a/background-ug3FAkv);
   background-size: cover!important;
   background-position-x: -50px!important;
 }
