@@ -4514,3 +4514,18 @@ svg aria-hidden {
 .chatCounter_XOMPsh{
   right:0!important;
 }
+.scrollableContainer_bdf0de { /* fix chat?*/
+  position: relative;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 1px;
+  min-width: 0;
+  border: 3px double var(--rs-streaming-color) !important;
+  border-radius: 8px !important;
+  box-shadow: rgb(210 109 208 / 30%) 0px 1px 2px 0px,
+    rgb(210 109 208 / 15%) 0px 2px 6px 6px !important;
+}
