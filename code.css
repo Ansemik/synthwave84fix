@@ -1733,7 +1733,7 @@ body {
   background: rgb(88, 101, 242);
 }
 
-.inner__999f6 {
+.inner__999f6{
   position: relative;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -4490,7 +4490,7 @@ svg aria-hidden {
   display: none!important;
 }
 .theme-dark .form_a7d72e:before, .theme-dark .form_a7d72e:after{
-  background:none!important;
+  background:none;
 }
 .lottieIcon_f73ef7 :not(defs *)[fill][fill-opacity]{
   fill:rgb(88, 101, 242);
@@ -4499,10 +4499,13 @@ svg aria-hidden {
   stroke:rgb(88, 101, 242);
 }
 .theme-dark .themed_fc4f04{
-  background:transparent!important;
+  background:transparent;
 }
 .themedBackground_d0696b{
-  background:var(--backgroundColor01)!important;
+  background:var(--backgroundColor01);
+}
+.themedBackground_bdf0de{
+  background: var(--backgroundColor01);
 }
 /*remove useless buttons*/
 .channelAppLauncher_df39bd{
