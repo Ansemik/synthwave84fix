@@ -1,3 +1,4 @@
+
 @import url("https://celestialreaver.github.io/BetterDiscord/themes/base/font.css");
 @import url("https://celestialreaver.github.io/BetterDiscord/themes/base/addons.css");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans");
@@ -3071,7 +3072,7 @@ svg aria-hidden {
   width: 0;
 }
 
-#app-mount .wordmarkWindows__421ed {
+.bar_c38106[data-windows=true] {
   position: absolute;
   content: "SYNTHWAVE '84";
   top: -3px;
