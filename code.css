@@ -3072,11 +3072,11 @@ svg aria-hidden {
   width: 0;
 }
 
-.bar_c38106[data-windows=true] {
+.title__85643{
   position: absolute;
   content: "SYNTHWAVE '84";
-  top: -3px;
-  height: 20px;
+  top: 5px;
+  height: 25px;
   width: 140px;
   margin-left: 10px;
   background-image: url("https://i.imgur.com/U6yhTRx.png") !important;
@@ -3084,6 +3084,13 @@ svg aria-hidden {
   background-size: contain;
   background-repeat: no-repeat;
   content-visibility: hidden;
+
+}
+.title_c38106{
+	display: block!important;
+}
+.expandedFolderBackground__48112{
+	left:4px!important;
 }
 
 #app-mount .container_c8ffbb {
