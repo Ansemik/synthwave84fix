@@ -107,7 +107,15 @@
   --profile-gradient-primary-color: transparent;
   
 }
-
+/* FUCK YOU DEVILB*/
+#app-mount .root__5c9fc .closeIconWrapper__6fd0e, #app-mount .root__5c9fc .closeIconWrapper__6fd0e .container_c2b141, #app-mount .root__5c9fc .closeIconWrapper__6fd0e .closeButton_c2b141, #app-mount .shop__6db1d .alignedRightContent__80679, #app-mount .shop__6db1d .container_c2b141, #app-mount .shop__6db1d .closeButton_c2b141{
+    position: relative!important;
+    min-width: 0!important;
+    height: 48px!important;
+    padding: 0 8px!important;
+    z-index: 2!important;
+    opacity: 1!important;
+}
 .content_f75fb0{
   background:url(https://i.imgur.com/i4BkNKm.png);
   background-size: cover!important;/*
